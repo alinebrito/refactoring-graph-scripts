@@ -1,3 +1,6 @@
+subgraphs_properties.csv
+graphs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
